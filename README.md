@@ -1,20 +1,24 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Data Science and Sales Predictions with Machine Learning
+## Analysing relations of store catagoristics to projected sales 
 
-**Author**: 
+**Author**: Scotty Thomason
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Atempting to predict sales of product based on item type, store type, size, etc.
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+This data included 8523 Rows and 12 Columns
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- To prepare this data, the data was cleaned, and the following processes were performed
+- Exploratory Data Analysis
+- Expanatory Data Analysis
+## Maching Learning Using the Following Models:
+- Linear Regression Model
+- Decision Tree Regressor Model
 
 ## Results
 
