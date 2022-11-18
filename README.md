@@ -21,13 +21,19 @@ This data included 8523 Rows and 12 Columns
 - Decision Tree Regressor Model
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
-
+-- Linear Regression Model (Testing Set):
+- R^2: 
+- RMSE:
+-- Decision Tree Regressor Model (Testing Set):
+- R^2: 
+- RMSE:
+-- Tuned Decision Tree Regressor Model (Testing Set):
+- R^2: 
+- RMSE:
 
 ## Recommendations:
 
-More of your own text here
+Need more information to make a stronger prediction.
 
 
 
