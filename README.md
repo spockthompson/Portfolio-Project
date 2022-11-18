@@ -22,14 +22,14 @@ This data included 8523 Rows and 12 Columns
 
 ## Results
 # Linear Regression Model (Testing Set):
-- R^2:0.42154574596484584
-- RMSE:1263.306039294569
+- R^2: 0.42154574596484584
+- RMSE: 1263.306039294569
 # Decision Tree Regressor Model (Testing Set):
-- R^2:0.19175643971965572
-- RMSE:1493.2935497849908
+- R^2: 0.19175643971965572
+- RMSE: 1493.2935497849908
 # Tuned Decision Tree Regressor Model (Testing Set):
-- R^2:0.17525594289339286 
-- RMSE:1508.4595194471224
+- R^2: 0.17525594289339286 
+- RMSE: 1508.4595194471224
 
 ## Recommendations:
 
