@@ -21,13 +21,13 @@ This data included 8523 Rows and 12 Columns
 - Decision Tree Regressor Model
 
 ## Results
--- Linear Regression Model (Testing Set):
+Linear Regression Model (Testing Set):
 - R^2: 
 - RMSE:
--- Decision Tree Regressor Model (Testing Set):
+Decision Tree Regressor Model (Testing Set):
 - R^2: 
 - RMSE:
--- Tuned Decision Tree Regressor Model (Testing Set):
+Tuned Decision Tree Regressor Model (Testing Set):
 - R^2: 
 - RMSE:
 
